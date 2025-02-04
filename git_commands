@@ -1,0 +1,35 @@
+git commands
+
+//git init -- initialize the local repo 
+git status -- shows the status of the files whether they are in staging area or committed stage
+git branch--gives you the main branch name in the remote repo
+git branch demo --creating a branch direclty in the git repo or remote repo
+cd ..(changing directory)
+cd vamsi(changing directory to vamsi)
+git add .
+git commit -m" message about files"
+git push -u origin main
+
+chmod 754 filename(changing permissions to the file)
+cp - copy command
+cat filename.txt(shows the text in the text file)
+
+git clone url(it will clone the remote repo to local repo)
+
+git checkout master( it switches the branch to master).
+
+git pull filename(it pulls the file from remote repo)
+
+
+//Linux commands
+pwd- present working directory
+ls -list of files
+ls -al --list of files without hidden
+mkdir vamsi--creating a directory named as vamsi
+rm - removes files from current directory
+rm -r vamsi --removes directory 
+
+cat > abc.txt(creating a file and command/ctrl D to stop the content)
+cat abc.txt(shows the content in the file)
+cp abc.txt xyz.txt(copying data from abc to xyz)
+mv abc.txt ABC.txt(creates and copy the data from abc to ABC at a time, Only ABC.txt exists)
